@@ -1,4 +1,4 @@
-# ELT-on-RSVP-Movies-data
+# ETL-on-RSVP-Movies-data
 ## RSVP-Movies
 SQL queries performed on IMDb database to provide recommendations to RSVP Movies based on insights.
 ## Problem Introduction
